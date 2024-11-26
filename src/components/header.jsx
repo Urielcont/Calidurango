@@ -2,7 +2,7 @@
 
 function Header(){
     return(
-        <div className="w-96">Funcionalidad</div>
+    <button type="button" className="btn btn-primary">Base class</button>
     );
 
 }
